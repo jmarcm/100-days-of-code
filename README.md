@@ -2,4 +2,4 @@
 ## Contenu
 
 - [Log - cliquez ici pour voir ma progression](https://github.com/jmarcm/100-days-of-code/blob/master/log.md)
-- Ressources
+- [Ressources](https://github.com/jmarcm/100-days-of-code/wiki)
